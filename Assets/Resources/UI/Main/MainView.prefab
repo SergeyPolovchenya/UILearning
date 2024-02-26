@@ -118,8 +118,7 @@ MonoBehaviour:
   OnlyOneCanBeVisible: 0
   restoreHierarchyState: 1
   openAddDeviceBtn: {fileID: 791703226135778593}
-  closeApplication: {fileID: 949666982917858753}
-  addDeviceView: {fileID: -7389233446576697572, guid: 59b7c1f3d1c1350429d7323f79c45f8b, type: 3}
+  closeApplicationBtn: {fileID: 949666982917858753}
 --- !u!222 &793395812778225011
 CanvasRenderer:
   m_ObjectHideFlags: 0
