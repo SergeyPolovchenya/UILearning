@@ -20,7 +20,7 @@ public class AddDeviceViewController : ViewController
 
     }
 
-    public void AddDevice_Clicked()
+    private void AddDevice_Clicked()
     {        
         string inputText = inputFieldText.text;
 
