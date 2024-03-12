@@ -1,4 +1,4 @@
-namespace App.UI
+﻿namespace App.UI
 {
     public class MainViewStarter : IWindowStarter
     {
